@@ -38,7 +38,7 @@ For the description we will see it in details in the next step.<br/>
 Let's say that we have a now a list of movies represented by vectors.<br/>
 How can we determine how similar they are?<br/>
 
-A good measure is the cosine similarity.<br/>
+* A good measure is the cosine similarity.<br/>
 
 ![alt text](https://github.com/alessandroNarcisi96/MovieRecommendation/blob/master/Images/cosSim2.png)<br/>
 
