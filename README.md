@@ -4,7 +4,7 @@
 
 A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that <br/>provide suggestions for items that are most pertinent to a particular user.
 
-![alt text](https://github.com/alessandroNarcisi96/MovieRecommendation/blob/master/Images/simpson.png)
+![alt text](https://github.com/alessandroNarcisi96/MovieRecommendation/blob/master/Images/simpson.jpg)
 
 This notebook aims at building a recommendation engine from the content of the TMDB dataset that contains around 5000 movies and TV series.<br/>
 Basically, the engine will work as follows: after the user has provided the name of a film he liked, the engine should be able to select in the database a list of 5 films that the <br/>user will enjoy.
