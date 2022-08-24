@@ -44,7 +44,7 @@ How can we determine how similar they are?<br/>
 
 Cosine similarity measures the similarity between two vectors of an inner product space.<br/>
 It is measured by the cosine of the angle between two vectors and determines whether two vectors are pointing in roughly the same direction<br/>
-
+![alt text](https://github.com/alessandroNarcisi96/MovieRecommendation/blob/master/Images/formula.png)<br/>
 By using this criteria we will figure out similar vectors.<br/>
 
 Finally we will decode the closest vector to the given one to return the list of movies<br/>
