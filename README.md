@@ -79,11 +79,11 @@ For example {'world', 'planet','Earth'} are all synonyms so we could pick just o
 
 To find the set of synonyms we will use nlkt and then we are going to replace each word with the most common synonym of the other words.<br/>
 For example:<br/>
-planet -> {'major planet', 'planet', 'satellite','world'}<br/>
-world -> {'cosmos', 'earth','globe','human beings','macrocosm','man','mankind', 'populace','universe','world'}<br/>
-Earth -> {'dry land','earth','globe','ground','land','world'}<br/>
+planet -> {'major planet', 'planet', 'satellite',**'world'**}<br/>
+world -> {'cosmos', 'earth','globe','human beings','macrocosm','man','mankind', 'populace','universe',**'world'**}<br/>
+Earth -> {'dry land','earth','globe','ground','land',**'world'**}<br/>
 
-As we can see world is present in all three cases so we are going to replace planer and Earth with world.<br/>
+As we can see world is present in all three cases so we are going to replace planet and Earth with world.<br/>
 
 In case of Inception the result will be:<br/>
 'someone fortune espionage mark subconscious spirit job requital origin stealer implantation mind'<br/>
