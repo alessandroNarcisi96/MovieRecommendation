@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that <br/> provides suggestions for items that are most pertinent to a particular user.
+A recommender system, or a recommendation system (sometimes replacing 'system' with a synonym such as platform or engine), is a subclass of information filtering system that provides suggestions for items that are most pertinent to a particular user.
 
 ![alt text](https://github.com/alessandroNarcisi96/MovieRecommendation/blob/master/Images/simpson.jpg)
 
